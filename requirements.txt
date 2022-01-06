@@ -1,4 +1,4 @@
-celery==4.3
+celery==5.2.2
 minio==4.0.18
 newspaper3k==0.2.8
 gevent==1.4.0
